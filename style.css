@@ -1,0 +1,23 @@
+.myResume {
+  background-color: lightblue;
+}
+
+.myName 
+.myEducation {
+  border: solid lightblue 5px;
+  margin: 5px;
+  display: block;
+}
+
+.imageContainer {
+  border: 10px, green;
+  display: inline;
+}
+
+li {
+  color: rgb(54, 140, 253);
+}
+
+body {
+  background-image: ;
+}
